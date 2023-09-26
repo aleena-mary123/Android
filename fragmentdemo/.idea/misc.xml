@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/cclab10/Documents/GitHub/Android/empdbapp/app/src/main/res/layout/activity_main.xml" value="0.21920289855072464" />
-        <entry key="..\:/Users/cclab10/Documents/GitHub/empdbapp/app/src/main/res/layout/activity_main.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/cclab10/Documents/GitHub/fragmentdemo/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/cclab10/Documents/GitHub/fragmentdemo/app/src/main/res/layout/fragment_first.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/cclab10/Documents/GitHub/fragmentdemo/app/src/main/res/layout/fragment_second.xml" value="0.1897644927536232" />
       </map>
     </option>
   </component>
